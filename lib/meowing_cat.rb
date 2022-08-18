@@ -31,4 +31,4 @@ class Cat
 
 end
 
-
+maru.name="meow!"
